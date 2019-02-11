@@ -10,5 +10,9 @@ package com.cifpcarballeira.katas.FizzBuzz;
  * @author alex
  */
 public class FizzBuzz {
+
+    public String getFizzBuzz(int i) {
+    return "1";
+    }
     
 }
