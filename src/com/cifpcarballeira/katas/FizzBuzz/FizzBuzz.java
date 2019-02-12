@@ -14,6 +14,7 @@ public class FizzBuzz {
     public String getFizzBuzz(int i) {
     if (i%3 == 0)
         return "Fizz";
+    //comentatio proba 2
     else return new Integer(i).toString ();
         
     }
